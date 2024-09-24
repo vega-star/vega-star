@@ -32,8 +32,8 @@ Compendium is a portifolio with a multitude of source-available projects stored 
 
 # Additional Info
 
-> [!NOTE]
-> This dashboard is being under construction. If you like what you see, **it will only get better!**
+>[!NOTE]
+>This dashboard is being under construction. If you like what you see, it will only get better!
 
 <div align = "center">
 <img src="assets/radish_holding_sign.gif" alt="Rabanilson"  width="250" />
