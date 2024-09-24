@@ -1,5 +1,5 @@
 
-<center>
+<div align="center">
     <span>
         <h1 style="display: inline;">Hi!</h1>
         <h3>You can also find me here:</h3>
@@ -9,9 +9,9 @@
         <a href="https://nyeptun.itch.io" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=Itch.io&logoColor=white"></a>
         <h4></h4>
     </span>
-</center>
+</div>
 
-<center>
+<div align="center">
 
 # [Compendium](https://github.com/vega-star/compendium)
 
@@ -28,4 +28,8 @@ Compendium is a portifolio with a multitude of source-available projects stored 
     <img width=31.7% src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vega-star&theme=blueberry&hide_border=false"">
 </div>
 
-</center>
+</div>
+
+> [!NOTE]
+> This dashboard is being under construction. If you like what you see, it will only get better!
+> <img src="assets/radish_holding_sign.gif" alt="Rabanilson"  width="250" />
