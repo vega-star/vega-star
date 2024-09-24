@@ -28,8 +28,15 @@ Compendium is a portifolio with a multitude of source-available projects stored 
     <img width=31.7% src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vega-star&theme=blueberry&hide_border=false"">
 </div>
 
-</div>
+<p></p>
+
+# Additional Info
 
 > [!NOTE]
-> This dashboard is being under construction. If you like what you see, it will only get better!
-> <img src="assets/radish_holding_sign.gif" alt="Rabanilson"  width="250" />
+> This dashboard is being under construction. If you like what you see, **it will only get better!**
+
+<div align = "center">
+<img src="assets/radish_holding_sign.gif" alt="Rabanilson"  width="250" />
+</div>
+
+</div>
