@@ -1,11 +1,9 @@
-
 <div align="center">
     <span>
-        <h1 style="display: inline;">Hi!</h1>
+        <h1 style="display: inline;">Hi there!</h1>
         <h3>You can also find me here:</h3>
-        <a href="https://www.youtube.com/@nyeptun" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube&logoColor=white&link=https%3A%2F%2Fwww.youtube.com%2F%40nyeptun"></a>
         <a href="https://www.linkedin.com/in/caio-v/" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
-        <a href="https://www.twitch.tv/nyeptun" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=Twitch&logoColor=white"></a>
+        <a href="https://www.youtube.com/@nyeptun" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube&logoColor=white&link=https%3A%2F%2Fwww.youtube.com%2F%40nyeptun"></a>
         <a href="https://nyeptun.itch.io" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=Itch.io&logoColor=white"></a>
         <h4></h4>
     </span>
@@ -30,12 +28,7 @@ Compendium is a portifolio with a multitude of source-available projects stored 
 
 <p></p>
 
-# Additional Info
-
 </div>
-
-> [!NOTE]
-> This dashboard is being under construction. If you like what you see, **it will only get better!**
 
 <div align = "center">
 <img src="assets/radish_holding_sign.gif" alt="Rabanilson"  width="250" />
